@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source: 
-    repoURL:  https://github.com/Liubzzz/argogolang1.git
+    repoURL:  https://github.com/Liubzzz/argo1.git
     targetRevision: main
     path: golang
   destination:
