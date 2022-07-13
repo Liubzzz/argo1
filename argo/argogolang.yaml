@@ -2,7 +2,6 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
   name: argo-golangliuba-yaml
-  namespace: argocdliuba
 spec:
   project: default
   source: 
